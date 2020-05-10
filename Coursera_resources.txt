@@ -1,0 +1,26 @@
+Resource sites:
+A. to make links to be shared on stackoverflow
+1. jssfiddle
+2. codepen.io
+B. Resouces:
+a. HTML:
+1. w3c html standard
+2. validator.w3.org -- to validate html code
+C. caniuse.com -- tracks what standards of html, css, javascript APIs etc. are supported by the browers
+
+Git commands on cmd:
+
+git clone URL: take a repository that is somewhere remotely on to your local machine. clone a repository from net to your machine.
+
+git status: shows the status of the open branch('master' by default); branch-name, untracked files, umcommited changes
+
+git checkout {branch-name(gh-pages)}: open the branch
+
+git add. : to add untracked files(changes made) to git; marked to be committed
+
+git commit: to commit the files in local repository
+
+git commit -m "message": message is displayed with the commit
+
+git push: to commit the files to the remote(github) repository
+
